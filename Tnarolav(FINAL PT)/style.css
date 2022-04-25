@@ -1,0 +1,196 @@
+body{
+    background-color: #454545;
+}
+
+.container {
+    position: relative;
+    font-family: 'Poppins';
+    text-align: center;
+  }
+
+nav{
+    background:linear-gradient(180deg,transparent,black);
+}
+
+nav ul{
+    text-align: left;
+}
+
+.dropdown-scrollbar {
+    height: auto;
+    max-height: 400px;
+    overflow-x: hidden;
+}
+
+.topnav-centered a {
+    float: none;
+    position: absolute;
+    top: 50%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+  }
+
+.centered {
+    position: absolute;
+    font-weight: bolder;
+    
+    color: snow;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding-top: 70px;
+}
+
+.home h1{
+    font-size: 4vw;
+    text-shadow: 3px 4px 4px #000000;
+}
+
+.home img{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.btn{
+    color: black;
+    background-color: #6c757d;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+.home h2{
+    font-size: 1.3vw;
+}
+
+h4{
+    padding-top: 130px;
+    font-size: 45px;
+    color: azure;
+}
+
+.card{
+    background-color: black;
+    background:linear-gradient(180deg,transparent,white);
+}
+
+h5{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+ul{
+    list-style: none;
+}
+
+#NEON{
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#CHAMB{
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#SKYE{
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#YORU{
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#ASTRA{
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#KAY{
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#PHOEN{
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#RAZE{
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#BRIMS{
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#JETT{
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#SAGE{
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#VIPER{
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#BREACH{
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#CYPHER{
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#SOVA{
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#OMEN{
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#REYNA{
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#KJ{
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+footer{
+    margin-top: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #000;
+}
